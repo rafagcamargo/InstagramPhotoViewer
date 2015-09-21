@@ -32,7 +32,11 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## Video Walkthrough
+
+<img src='https://www.dropbox.com/s/fzhg84fqs3zvwzl/InstagramPhotoViewer.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 https://youtu.be/F3N2QIx-FM8
 
