@@ -34,11 +34,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+https://youtu.be/F3N2QIx-FM8
+
 <img src='https://dl.dropboxusercontent.com/u/72672886/InstagramPhotoViewer.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-https://youtu.be/F3N2QIx-FM8
 
 ## Notes
 
