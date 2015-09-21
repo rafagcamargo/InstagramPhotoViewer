@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-(https://youtu.be/F3N2QIx-FM8)
+https://youtu.be/F3N2QIx-FM8
 
 ## Notes
 
