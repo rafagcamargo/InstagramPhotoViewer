@@ -34,15 +34,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://dl.dropboxusercontent.com/u/72672886/SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Assets for me was the most difficult part, you have to research, check size, color. It is so much better when the designer give them for us developers.
 
 ## Open-source libraries used
 
