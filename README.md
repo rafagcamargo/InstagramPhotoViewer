@@ -49,7 +49,7 @@ Assets for me was the most difficult part, you have to research, check size, col
 
 ## License
 
-    Copyright [2015] [Rafael Camargo]
+    Copyright 2015 Rafael Camargo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
